@@ -14,3 +14,5 @@ dk = sign(zk) = -1 if zk < 0 and 1 if zk >=0
 - Output xk, yk are cos and sin of the angle. 
 - If we property set tan-1(2-k) in LUT, tan of z0 is calculatable. 
 
+* Circuit design
+![image](https://user-images.githubusercontent.com/57820377/144735151-de3d54e5-8c2a-46f1-99ab-bb2c6376f204.png)
