@@ -3,12 +3,12 @@
 ![image](https://user-images.githubusercontent.com/57820377/144734930-9e61bfe0-3f07-48f4-a232-92a5f9063257.png)
 - If we set y0 = 0 then 
    + xk = G * x0 * cosz0
-   + yk= G*x0*sinz0
-   + zk+1=-dk*tan-1(2-k)
+   + yk= G * x0 * sinz0
+   + zk+1=-dk * tan-1(2-k)
 - Then set x0 = 1/G, we finally get:
   + xk = cosz0
   + yk= sinz0
-  + zk+1=-dk*tan-1(2-k) 
+  + zk+1=-dk * tan-1(2-k) 
 dk = sign(zk) = -1 if zk < 0 and 1 if zk >=0
 - For 2 inputs x0, y0, we set x0 = 1/G, y0 = 0. For input z0 we set z0 as angle we want to calculate. 
 - Output xk, yk are cos and sin of the angle. 
