@@ -17,3 +17,7 @@ dk = sign(zk) = -1 if zk < 0 and 1 if zk >=0
 * Circuit design
 
 ![image](https://user-images.githubusercontent.com/57820377/144735151-de3d54e5-8c2a-46f1-99ab-bb2c6376f204.png)
+
+
+* Waveform
+![image](https://user-images.githubusercontent.com/57820377/144735318-dc214c3f-d44a-4426-a422-dd3148ee4c41.png)
