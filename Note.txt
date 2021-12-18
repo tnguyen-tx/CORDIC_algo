@@ -1,3 +1,0 @@
-Coordinate Rotation Digital Computer
-This simple and efficient algorithm was later generalized to include hyperbolic functions, multiplication and division.
-
