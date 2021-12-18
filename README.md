@@ -1,5 +1,5 @@
 # CORDIC_algo
-* We won't go too far to math behind this algorithm. But in general by using binary search we can find an angle input. Each time searching for the angle, we reduce the value +/- by half. In circuit design, it is equivalent to successive approximation algorithm.
+* We won't go too far to math behind this algorithm. But in general by using binary search we can find an angle input. Each time searching for the angle, we reduce/increase the value by half. In circuit design, it is equivalent to successive approximation algorithm.
 ![image](https://user-images.githubusercontent.com/57820377/144734930-9e61bfe0-3f07-48f4-a232-92a5f9063257.png)
 - If we set y0 = 0 then 
    + xk = G * x0 * cosz0
